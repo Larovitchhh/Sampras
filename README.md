@@ -1,4 +1,4 @@
-# A Blank Project
+# Sampras token in Stacks Blockchain
 
 This blank project conforms to [Clarinet-compliant](https://docs.hiro.so/clarinet/how-to-guides/how-to-create-new-project) project structure. 
 
